@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+
+	<script src="Scripts/bootsrap.bundle.mis.js" type="text/javascript"></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
+	<link type="text/css" href="styles/bootstrap.min.css" rel="stylesheet" />
+	<link type="text/css" href="styles/main.css" rel="stylesheet" />
+
+</head>
+<body>
+
+	<div id="wrapper">
+	<nav class="navbar navbar-expand-lg header">
+		<a class="nav-link" href="jukeboxprophets1.html"><font color="black">Home</font></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<ul class="navbar-nav mr-auto">
+			<li>
+				<a class="nav-link" href="bandMembers.html"><font color="black">The Band</font><span class="sr-only">(current)</span></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="events.html"><font color="black">Events</font></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="localBars.html"><font color="black">Local Haunts</font></a>
+			</li>
+			
+			</ul>
+
+  </div>
+		</nav>
+		<div class="clearfix"></div>
+				
+		<h1>Welcome to The Jukebox Prophets!</h1>
+	
+	<div>
+		<h3>What we do</h3> </div>
+		<style>
+
+</style>
+<main class="grid">
+  <img src="images/jbp11.jpg" alt="Sample photo">
+  <img src="images/jbp12.jpg" alt="Sample photo">
+  <img src="images/jbp14.jpg" alt="Sample photo">
+  <img src="images/jbp3.jpg" alt="Sample photo">
+  <img src="images/logo.jpg" alt="Sample photo">
+  <img src="images/jbp10.jpg" alt="Sample photo">
+  <img src="images/jbp9.jpg" alt="Sample photo">
+  <img src="images/jbp8.jpg" alt="Sample photo">
+</main>
+	
+		
+	<br /><br />
+	<div class="borderGreen theBold">
+	Click here for
+<a href="mailto:jukeboxprophets@gmail.com?Subject=Booking" target="_top">Booking!</a>
+	
+<br />
+	
+	Check out our
+<a href=" https://www.facebook.com/Jukebox-Prophets-1459348850998070/?epa=SEARCH_BOX&jazoest=26510012067827110311011881107847510055117658070120778256695176103685510755106107578554112491097169771021225665586510012212011511881661031186965537970697511099568212184117556810112112051107113505195565382112121958012084121103">Facebook Page</a>
+	<div />
+	<br /><br /><br /><br />
+	<div class="clearfix"></div>
+	<div class="col-12 footer">
+		<font size="4">Contact us! Call or Text Nancy Renninger at: <br />
+		(239) 220-0278 
+		</font>
+		</div>
+
+
+
+</body>
+</html>
